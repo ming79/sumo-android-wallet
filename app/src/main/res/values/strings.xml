@@ -141,7 +141,7 @@
     <string name="label_watchonly">(Watch Only)</string>
 
     <string name="label_wallet_receive">Receive</string>
-    <string name="label_wallet_send">Give</string>
+    <string name="label_wallet_send">Send</string>
 
     <string name="xmr_unconfirmed_amount">+ %1$s SUMO unconfirmed</string>
 
@@ -234,7 +234,7 @@
     <string name="send_address_resolve_openalias">Resolving OpenAlias&#8230;</string>
     <string name="send_address_no_dnssec">OpenAlias without DNSSEC - address may be spoofed</string>
     <string name="send_title">Send</string>
-    <string name="send_available">Balance: %1$s XMR</string>
+    <string name="send_available">Balance: %1$s SUMO</string>
     <string name="send_address_title">Address</string>
     <string name="send_amount_title">Amount</string>
     <string name="send_confirm_title">Confirm</string>
