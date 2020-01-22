@@ -184,7 +184,7 @@
     <string name="help_wallet"><![CDATA[
         <h1>El monedero</h1>
         <h2>Modo Público</h2>
-        <p>El Modo Público puede ser habilitado/deshabilitado en el menú o en el derecho superior icono. En este modo, tu
+        <p>El Modo Público puede ser habilitado/deshabilitado en el menú o en el icono de la esquina superior derecha. En este modo, tu
         balance no se muestra en ninguna pantalla para que puedas usar de manera segura tu monedero en la calle, un pub u
         otro lugar público. Transacciones anteriores también se ocultan. Nuevas transacciones serán mostradas, para
         que puedas ver que has enviado/recibido SUMO.</p>
@@ -255,14 +255,14 @@
 
     <string name="help_uri"><![CDATA[
         <h1>Usando un enlace de pago</h1>
-        <p>Has comenzado Sumokoin Android Wallet con un enlace de pago. Para enviar fondos, haga lo siguiente:</p>
+        <p>Lanzaste Sumokoin Android Wallet con un enlace de pago. Para enviar fondos, puedes hacer lo siguiente:</p>
         <p>
         1. Abre el monedero de la que quieres gastar<br>
-        2. Espere hasta que el monedero esté sincronizada &amp; aparece el botón "Enviar"<br>
+        2. Espera hasta que el monedero esté sincronizada y aparezca el botón "Enviar"<br>
         3. Toca el botón "Enviar"
         </p>
-        <p>Los detalles del pago se completarán. Verifíquelos y proceda como para cualquier otra transacción.</p>
+        <p>Los detalles del pago estarán rellenados. Verifíquelos y procede como para cualquier otra transacción.</p>
     ]]></string>
 
-    <string name="help_ok">Got it!</string> <!-- Note: "Got it" as in "I understand this" -->
+    <string name="help_ok">Entiendo</string> <!-- Note: "Got it" as in "I understand this" -->
 </resources>
